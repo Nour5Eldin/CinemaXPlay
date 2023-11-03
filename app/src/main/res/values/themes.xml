@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.CinemaXPlay" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimaryDark">@color/main_navy</item>
+        <item name="colorPrimaryVariant">@color/main_navy</item>
+        <item name="colorPrimary">@color/main_navy</item>
+        <item name="android:navigationBarColor">@color/main_navy</item>
+        <item name="android:statusBarColor">@color/main_navy</item>
+    </style>
+
+    <style name="Theme.CinemaXPlay" parent="Base.Theme.CinemaXPlay" />
+    <style name="roundedImageView">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+</resources>

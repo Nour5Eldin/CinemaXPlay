@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CinemaXPlay</string>
+    <string name="description">You can search for your favorite movies and series and watch them for free</string>
+    <string name="WatchOption">Watch Now or Watch Later</string>
+    <string name="get_started">Get Started</string>
+    <string name="favourite_show">Favourite Show</string>
+    <string name="discover_your">Discover Your</string>
+</resources>
